@@ -1,3 +1,4 @@
 {
-    "liveServer.settings.multiRootWorkspaceName": "ListenX"
+    "liveServer.settings.multiRootWorkspaceName": "ListenX",
+    "liveServer.settings.port": 5501
 }
